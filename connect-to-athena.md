@@ -4,7 +4,8 @@ AWS Athena is a SQL query editor that will allow you to retrieve data from the d
 
 ## 1. Login with UT EID and password
 Go to https://myapplications.microsoft.com, sign in if required, and search for 
-"AWS-ControlTower." Click that icon and you will be redirected to the AWS access portal.
+"AWS-utexas." Click that icon and you will be redirected to the AWS access portal. 
+If you want to bookmark a link, I recommend this one: https://utexas.awsapps.com/start
 
 <img src="images/microsoft.png" alt="hi" class="inline"/>
 
