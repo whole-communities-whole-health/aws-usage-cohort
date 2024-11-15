@@ -28,7 +28,7 @@ the Athena option to go to the Athena query editor.
 ## 5. Athena console settings 
 The Athena query editor is where you will have access to collected Fitbit data. 
 Make sure your region is US East (Ohio), your workgroup is "primary" and that the 
-database selection is "feas_prod_athena_db." These options should be auto selected 
+database selection is "participant-data." These options should be auto selected 
 for you in the future. 
 
 <img src="images/settings-athena.png" alt="hi" class="inline"/>
