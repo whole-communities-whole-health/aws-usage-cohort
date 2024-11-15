@@ -3,11 +3,8 @@
 You will use S3 buckets to upload data from your lab to share internally within WCWH.
 
 ## 1. Login with UT EID and password
-Go to https://myapplications.microsoft.com, sign in if required, and search for 
-"AWS-utexas." Click that icon and you will be redirected to the AWS access portal. 
-If you want to bookmark a link, I recommend this one: https://utexas.awsapps.com/start
-
-<img src="images/microsoft.png" alt="hi" class="inline"/>
+Bookmark the link to the AWS portal login page: https://utexas.awsapps.com/start. Go to the 
+portal page, and login with your EID and password.
 
 ## 2. AWS access portal page
 The AWS access portal page has an orange icon. Select the label "VRES-WCWH-Cohort" 
