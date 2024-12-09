@@ -1,6 +1,6 @@
 ## S3 Upload Protocol for lab data
 
-This is an example of a simple data structure and data dictionary that worked for a WCWH lab. It is a table in a spreadsheet that becomes a database table when uploaded:
+This is an example of a simple data structure and data dictionary that worked for a WCWH lab. It is a table in a spreadsheet that becomes a database table when uploaded. The lab used a single table with participant ID as the first column, and multiple additional columns to accommodate measured variables.
  
 | participant_id | sample_date | string_metric | integer_metric | column_name_E |
 |----------------|-------------|---------------|----------------|---------------|
@@ -15,9 +15,10 @@ This is an example of a simple data structure and data dictionary that worked fo
 | P0014T         | 5/1/23      | test-string   | 42             | null          |
 | P0015T         | 5/3/23      | test-string   | 42             | null          |
 
-The lab used a single table with participant ID as the first column, and multiple additional columns to accommodate measured variables. 
 
 ## Data dictionary for table
+
+The table above requires a data dictionary to define what the table itself is for, the meaning of each column heading:
 
 | Table Name        | Table Definition                 | Field          | Field Definition                        |
 |-------------------|----------------------------------|----------------|-----------------------------------------|
