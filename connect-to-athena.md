@@ -25,15 +25,22 @@ the Athena option to go to the Athena query editor.
 
 <img src="images/bookmark.png" alt="hi" class="inline"/>
 
-## 5. Athena console settings 
-The Athena query editor is where you will have access to collected Fitbit data. 
-Make sure your region is US East (Ohio), your workgroup is "primary" and that the 
+## 5. Athena landing page
+If AWS loads a page that looks like this, select the three horizontal lines at the
+top left, and then the query editor link. If you don't see this screen, go to the
+next step.
+
+<img src="images/splash.png" alt="hi" class="inline"/>
+
+## 6. Athena console settings 
+The Athena query editor is where you will have access to collected data.  Make sure 
+your region is US East (Ohio), your workgroup is "primary" and that the 
 database selection is "participant-data." These options should be auto selected 
 for you in the future. 
 
 <img src="images/settings-athena.png" alt="hi" class="inline"/>
 
-## 6. Query the data
+## 7. Query the data
 You will now see the data tables you are able to query on the left side of the 
 screen. There are a couple SQL queries to get you started on the "saved queries" 
 tab on the navigation bar. The "download results" button will allow you to save 
@@ -41,7 +48,7 @@ the results of a query in CSV format.
 
 <img src="images/tables-saved.png" alt="hi" class="inline"/>
 
-## 7. Save queries you write
+## 8. Save queries you write
 You can write your own queries and save them. Use the three vertical dots hidden 
 menu next to the query number to save queries you want to use again.
 
