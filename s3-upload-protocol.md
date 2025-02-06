@@ -55,3 +55,6 @@ The table above requires a data dictionary to define what the table itself is fo
 - Standardize values of none/NA/missing to a single value. Use NULL for all missing values if you don’t already have a preference. It may make sense for your group to use a combination of null and a separate identifier to make a distinction between data that is missing vs data not currently available.
 
 - Rename duplicate column headings in your spreadsheet (e.g. visit_one and visit_two). It may be appropriate for your group to have multiple tables (e.g. visit_one_table and vistit_two_table) rather than many near duplicate column headings in a single table.
+
+\
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhole-communities-whole-health%2Faws-usage-cohort%2Fblob%2Fmain%2Fs3-upload-protocol.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
