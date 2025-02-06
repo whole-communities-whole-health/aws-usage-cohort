@@ -1,4 +1,5 @@
 # Database table list
+This is a list of tables in the database with a brief description of each
 
 **hose_prod_instruments_answer**  
 Responses submitted by participants
@@ -91,4 +92,7 @@ Supplemental adult demographics. The most current demographc information comes f
 Supplemental child demographics. The most current demographc information comes from participant surveys
 	
 **research_lena**  
-LENA metadata
+Description from lab not available.
+
+\
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhole-communities-whole-health%2Faws-usage-cohort%2Fblob%2Fmain%2Fdatabase-tables.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
