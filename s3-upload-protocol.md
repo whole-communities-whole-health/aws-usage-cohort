@@ -56,5 +56,7 @@ The table above requires a data dictionary to define what the table itself is fo
 
 - Rename duplicate column headings in your spreadsheet (e.g. visit_one and visit_two). It may be appropriate for your group to have multiple tables (e.g. visit_one_table and vistit_two_table) rather than many near duplicate column headings in a single table.
 
+- Use UTC for timestamps. Use the format YYYY-MM-DD HH:mm:ss (and fractional seconds, if desired. An example is 2024-02-16 23:51:04.728014.
+
 \
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhole-communities-whole-health%2Faws-usage-cohort%2Fblob%2Fmain%2Fs3-upload-protocol.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
